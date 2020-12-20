@@ -1,0 +1,23 @@
+{
+  "name": "algorithms-js",
+  "version": "1.0.0",
+  "description": "TO BE DEFINED",
+  "main": "index.js",
+  "scripts": {
+    "run": "index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsraelDeorce/algorithms-js.git"
+  },
+  "author": "Israel Deorce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsraelDeorce/algorithms-js/issues"
+  },
+  "homepage": "https://github.com/IsraelDeorce/algorithms-js#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
