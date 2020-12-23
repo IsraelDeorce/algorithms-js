@@ -1,11 +1,11 @@
-// Create a Node structure
+// TODO: Create a Node structure
 // HAS VAL AND NEX
 // getData
 // setData
 // getNext
 // setNext
 
-// Create a Linked List using the nodes
+// TODO: Create a Linked List using the nodes
 // __init__
 // getCount
 // insert a new node

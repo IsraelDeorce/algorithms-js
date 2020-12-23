@@ -4,7 +4,6 @@
   "description": "TO BE DEFINED",
   "main": "index.js",
   "scripts": {
-    "run": "index.js",
     "test": "jest"
   },
   "repository": {
